@@ -1,0 +1,12 @@
+com\desafio\service\UserDetailsService.class
+com\desafio\config\CorsFilterConfiguration.class
+com\desafio\DesafioAuthServerApplication.class
+com\desafio\config\AuthorizationServerConfiguration.class
+com\desafio\model\Authority.class
+com\desafio\model\User.class
+com\desafio\repository\AuthorityRepository.class
+com\desafio\repository\UserRepository.class
+com\desafio\config\WebSecurityConfig.class
+com\desafio\domain\Authorities.class
+com\desafio\controller\AuthController.class
+com\desafio\config\ResourceServerConfiguration.class

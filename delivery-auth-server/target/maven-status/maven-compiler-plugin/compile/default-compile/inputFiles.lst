@@ -1,0 +1,12 @@
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\repository\UserRepository.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\controller\AuthController.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\config\CorsFilterConfiguration.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\repository\AuthorityRepository.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\config\AuthorizationServerConfiguration.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\config\WebSecurityConfig.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\service\UserDetailsService.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\domain\Authorities.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\config\ResourceServerConfiguration.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\DesafioAuthServerApplication.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\model\Authority.java
+C:\Users\f729569\Downloads\delivery-master\delivery-auth-server\src\main\java\com\desafio\model\User.java
